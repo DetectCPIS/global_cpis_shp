@@ -1,3 +1,4 @@
 # global_cpis_shp
-World_CPIS_2000.zip is based on instance segmentation using Landsat-7 data from the year 2000
-World_CPIS_2021.zip is based on instance segmentation using Sentinel-2 data from the year 2021
+World_CPIS_2000.zip: CPIS in global arid areas in 2000 (unzip to obtain the shp file) 
+
+World_CPIS_2021.zip: CPIS in global arid areas in 2021 (unzip to obtain the shp file)
