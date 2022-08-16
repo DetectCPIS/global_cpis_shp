@@ -11,7 +11,7 @@ All rights reserved.
 <br />
 Future updates will be implemented. If you use our data, please cite our paper:
 
-Chen, F., Zhao, H., Roberts, D., Van de Voorde, T., Batelaan, O., Fan, T., Xu, W., Mapping center pivot irrigation systems in global arid regions and the spatial analysis with freshwater resources. (submitted)
+Chen, F., Zhao, H., Roberts, D., Van de Voorde, T., Batelaan, O., Fan, T., Xu, W., Mapping center pivot irrigation systems in global arid regions and the spatial analysis with freshwater resources (submitted).
 <br />
 <br />
-contact: chenfen@uestc.edu.cn
+For more information, please contact Fen Chen: chenfen@uestc.edu.cn
