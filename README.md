@@ -1,4 +1,4 @@
-![image](./images/GlobalDistributionOfCPIS.jpg)
+![CPIS](./figures/GlobalDistributionOfCPIS.jpg)
 
 # global_cpis_shp
 World_CPIS_2000.zip: CPIS in global arid areas in 2000 (unzip to obtain the shp file) 
